@@ -1,4 +1,7 @@
-Forty by HTML5 UP
+# Team Makarong Website
+https://makarong.prev.kro.kr/ - 이 소스를 사용한 Team Makarong 웹사이트 입니다.
+## Template
+```Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -29,4 +32,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (github.com/ajlkn/responsive-tools)```
